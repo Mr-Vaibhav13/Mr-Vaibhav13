@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">I am 4th year Btech Student.</h3>
+<h3 align="center">I am Full Stack developer</h3>
 
 <img align="right" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" alt="Error GIF" width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-vaibhav13&label=Profile%20views&color=0e75b6&style=flat" alt="mr-vaibhav13" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vaibhav59813166" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav59813166?logo=twitter&style=for-the-badge" alt="vaibhav59813166" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ExpressJS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **C++, Programming Problem Solving Questions**
+- 💬 Ask me about **C++, ReactJS, Frontend development**
 
 - 📫 How to reach me **vaibhav008mn@gmail.com**
 
