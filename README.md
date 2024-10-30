@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vaibhav008mn@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Mr-Vaibhav13/Resume/blob/main/Resume%20_Vaibhav.pdf]([https://github.com/Mr-Vaibhav13/Resume/blob/main/Resume%20_Vaibhav.pdf](https://drive.google.com/file/d/1SYPLp1NdVR7kddINYrP9qbtsFtmphZit/view?usp=sharing))
+- 📄 Know more about me:- [Resume](https://drive.google.com/file/d/1SYPLp1NdVR7kddINYrP9qbtsFtmphZit/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
