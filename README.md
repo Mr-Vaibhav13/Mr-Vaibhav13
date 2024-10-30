@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhav59813166" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav59813166?logo=twitter&style=for-the-badge" alt="vaibhav59813166" /></a> </p>
 
-- 🌱 I’m currently learning **ExpressJS**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **C++, ReactJS, Frontend development**
+- 💬 Ask me about **C++, ReactJS, Frontend development, Problem Solving**
 
 - 📫 How to reach me **vaibhav008mn@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Mr-Vaibhav13/Resume/blob/main/Resume%20_Vaibhav.pdf](https://github.com/Mr-Vaibhav13/Resume/blob/main/Resume%20_Vaibhav.pdf)
+- 📄 Know about my experiences [https://github.com/Mr-Vaibhav13/Resume/blob/main/Resume%20_Vaibhav.pdf]([https://github.com/Mr-Vaibhav13/Resume/blob/main/Resume%20_Vaibhav.pdf](https://drive.google.com/file/d/1SYPLp1NdVR7kddINYrP9qbtsFtmphZit/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
